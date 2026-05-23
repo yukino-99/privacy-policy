@@ -2,3 +2,4 @@
 
 - [マイサブスク プライバシーポリシー](./mysubsc/privacy)
 - [マイサブスク サポート](./mysubsc/support)
+- [こんだてノート プライバシーポリシー](./kondate_note/privacy)
